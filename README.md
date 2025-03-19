@@ -108,7 +108,7 @@ SGE-Intelligence/
 ## Example
 
 ### Input
-- Search Query: "best running shoes 2023"
+- Search Query: "best running shoes 2026"
 - Target Keywords: "running shoes, best sneakers, athletic footwear"
 - Action: Generate SGE Content
 
